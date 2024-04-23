@@ -1,4 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eZXAY4Sk)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13721227)
+# Full Stack Software Engineering Project 2: Recipe Step Tracker App
 
-One pager link: https://docs.google.com/document/d/1z282kS39MT1B3hAaEl2MFimpDpOmo3vhFZ0SU6p9WWE/edit?usp=sharing 
+### Description:
+This was the second project for Full Stack Software Engineering, Winter 2024, Northwestern University. Developed as a solo project, it integrates a GraphQL API backend with a React frontend. There is also an unused RESTful API within the backend, written for practice purposes. Base file for the frontend originally written by Prof. Lydia Tse. Modifications for CRUD functionality added as a part of this project.
+
+### Tech Stack:
+- Frontend: React, Apollo Client
+- Backend: Django, Django Graphene
+- Languages: Python, HTML, CSS, JavaScript
+
+### One pager link: 
+https://docs.google.com/document/d/1z282kS39MT1B3hAaEl2MFimpDpOmo3vhFZ0SU6p9WWE/edit?usp=sharing 
