@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+button {
+  height: 15px;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+#green {
+  background-color: aquamarine;
+}
+
+#red {
+  background-color: rgb(236, 115, 115);
+}
